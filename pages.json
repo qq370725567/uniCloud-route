@@ -1,0 +1,40 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/uni-id/index/index",
+			"style": {
+				"navigationBarTitleText": "uniCloud-云函数路由模式 - 带过滤器 - 支持权限拦截 - 已集成uni-id"
+			}
+		},
+		{
+			"path": "pages/uni-id/password/password",
+			"style": {}
+		},
+		{
+			"path": "pages/uni-id/mobile/mobile",
+			"style": {}
+		}, 
+		{
+			"path": "pages/uni-id/weixin/weixin",
+			"style": {}
+		}, 
+		{
+			"path": "pages/uni-id/alipay/alipay",
+			"style": {}
+		}, 
+		{
+			"path": "pages/uni-id/util/util",
+			"style": {}
+		}, 
+		{
+			"path": "pages/uni-id/email/email",
+			"style": {}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uniCloud-云函数路由模式 - 带过滤器 - 支持权限拦截 - 已集成uni-id",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}
